@@ -34,7 +34,7 @@ const dateFormat = require('dateformat');
 
 
 const prefix = "!"//لاتغير البرفكس
-const developers = ""//ايديك
+const developers = "719543433986965526"//ايديك
 
 ////////
 
