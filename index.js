@@ -1178,4 +1178,4 @@ const Sra7a = [
 });
 
 
-client.login('')//توكن بوتك
+client.login('NzQxNTc0Nzc1MTUxMDAxNjYx.Xy5jVA.DR4JmMUXXVrvwYgjtdfF9jN9YKU')//توكن بوتك
